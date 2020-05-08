@@ -5,7 +5,7 @@
 <title>Ergodash build log</title>
 <h1>Ergodash build log</h1>
 
-<img src=img1.jpg width="800">
+<img src=https://github.com/Falchy/site/blob/master/img1.jpg?raw=true width="800">
 
 <p>This is a build log of the ergodash i recently built. I will talk about a few things:</p>
 

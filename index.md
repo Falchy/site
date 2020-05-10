@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-html>
+<html>
 <body>
 
 <title>Ergodash build log</title>
@@ -7,7 +7,7 @@ html>
 
 <img src=img1.jpg width="800">
 
-<p>This is a build log of the ergodash i recently built. I will talk about a few things:</p>
+<p>This is a build log of the ergodash i recently built. This is also my first go at making something with html, so please be kind ;) I will talk about a few things:</p>
 
 <ul>
 	<li>Mistakes i made</li>
@@ -17,5 +17,5 @@ html>
 </ul>
 
 <h2>Mistakes i made</h2>
-
+</body>
 </html>

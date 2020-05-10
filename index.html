@@ -12,10 +12,15 @@
 <ul>
 	<li>Mistakes i made</li>
 	<li>What i learned</li>
-	<li>General thoughts on the build</li>
+	<li>First thoughts on the build</li>
 	<li>Thoughts after using it a bit (wip)</li>
 </ul>
 
 <h2>Mistakes i made</h2>
+<p>I have made both a hand wired keyboard, and a dz60 based kit before, so i am not completely new to building keebs. This was my first go at something like this though, so of course i made some mistakes.
+The biggest mistake i made was probably underestimating the possibilities i had to mess things up. I was a bit to eager, and did things a little too fast. Here you can see my first mistake. I scimmed the instructions,
+read that the diodes should be soldered to the round and square pads, and went to town. </p>
+<img src=img2.png>
+
 </body>
 </html>

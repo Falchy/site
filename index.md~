@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-html>
+<html>
 <body>
 
 <title>Ergodash build log</title>
@@ -17,5 +17,5 @@ html>
 </ul>
 
 <h2>Mistakes i made</h2>
-
+</body>
 </html>

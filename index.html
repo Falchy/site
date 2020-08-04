@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<title>Ergodash build log</title>
+<title>Test</title>
 <h1>Ergodash build log</h1>
 
 <img src=img1.jpg width="800">
